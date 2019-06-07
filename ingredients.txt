@@ -2,4 +2,12 @@ avocados
 jalepenos
 tomatos
 cilantro
+<<<<<<< HEAD
 ketchup
+=======
+salt
+>>>>>>> ed6fe738d4b839323e034eaf57d0f8b04fdf7268
+
+
+dogs
+
